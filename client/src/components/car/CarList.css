@@ -1,0 +1,36 @@
+
+.scroll{
+  overflow-y: scroll;
+   height:310px;
+}
+
+.button-delete,
+.button-edit {
+  height: 30px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  color: black;
+  margin-left: 5px;
+  margin-top: 15px;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+}
+
+.button-edit {
+  background-color: yellow;
+}
+
+.button-delete {
+  background-color: red;
+}
+
+table{
+  width:100%
+}
+
+.td{
+  margin-left: 5px;
+}

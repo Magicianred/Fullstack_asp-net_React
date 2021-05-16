@@ -1,0 +1,12 @@
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\bin\Debug\net5.0\Vehicle.Data.deps.json
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\bin\Debug\net5.0\Vehicle.Data.dll
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\bin\Debug\net5.0\ref\Vehicle.Data.dll
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\bin\Debug\net5.0\Vehicle.Data.pdb
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.dll
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\ref\Vehicle.Data.dll
+C:\Users\Ali\Desktop\Ali_Muhammed-Barkfors\BarkforsAPI\Vehicle.Data\obj\Debug\net5.0\Vehicle.Data.pdb

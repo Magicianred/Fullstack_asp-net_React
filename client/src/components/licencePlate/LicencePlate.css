@@ -1,0 +1,24 @@
+#plate {
+    margin-top: 70px;
+    width: 180px;
+    height: 50px;
+    background-color: #edf100;
+    box-shadow: 10px 10px 5px #888888;
+    border: 3px solid;
+    border-radius: 15px;
+  }
+    
+  #number {
+    text-align: center;
+    padding: 5px 20px 20px 20px;
+    color: #000000;
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  #number p{
+    color: blue;
+    margin-top: 1px;  
+    font-size: 8px;
+  }

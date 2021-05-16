@@ -1,0 +1,46 @@
+
+  input[type=text], select {
+  background-color: #F0EFEF;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  color: black;
+  font-size: 15px;
+  width: 100%;
+  padding: 2px 4px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.buttons-container{
+  display: flex;
+  justify-content: right;
+}
+
+.buttons-container input{
+  width: 20%;
+}
+  .button-add {
+    padding: 15px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 0;
+    color: black;
+    cursor: pointer
+  }
+
+  .img-container{
+    display: flex;
+    justify-content: center;
+  }
+  img{
+    height: 40px;
+    width: 240px;
+  }
+
+.input-container{
+  justify-content: center;
+  align-items: center;
+  max-width: 900px;
+}
